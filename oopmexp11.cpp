@@ -6,8 +6,7 @@ int main()
 	float a,b;
 	
 	cout<<"\nImplementation of Exception Handling !!";
-	cout<<"\nStudent name - Yash Lade !!\n";
-	cout<<"Enroll no. - 0832CS221229 \n";
+	cout<<"\n@Author - Yash Lade !!\n";
 	
 	cout<<"\nEnter first number :";
 	cin>>a;
