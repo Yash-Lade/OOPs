@@ -19,6 +19,7 @@ complex::complex(void)
 }
 int main()
 {
+	cout<<"\n Implementation of Constructor by Yash Lade \n\n";
 	complex c;
 	
 	c.print();
