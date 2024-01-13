@@ -49,7 +49,7 @@ int main()
 {
 	int ch,r,l,b,bs,ht;
 	cout<<"\tImplementation of function overloading\n";
-	cout<<"\tStudent Name : Yash Lade !!\n";
+	cout<<"\tBy: Yash Lade !!\n";
 	
 	fun f;
 	do{
