@@ -34,7 +34,6 @@ class overloading
 int main()
 {
 	cout<<"\n -- Operator Overloading by Yash Lade --\n";
-	cout<<"\tEnrollment no. - 0832CS221229 \n";
 	overloading o;
 	
 	o.getvalue();
