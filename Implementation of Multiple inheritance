@@ -1,0 +1,40 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+class cs1
+{	
+    public:
+    void fun1()
+	{
+	cout<<"\n\tfirst function called here ! and \n\tThis is function of first class !!\n";
+	}
+};
+
+class cs2
+{	
+    public:
+    void fun2()
+	{
+	cout<<"\tSecond function called here !and \n\tThis is function of second class !!\n";
+	}
+};
+
+class cs3 :public cs2,public cs1
+{	
+    public:
+    void fun3()
+	{
+	cout<<"\tThird function called here !and \n\tThis is function of first class !!\n";
+	}
+};
+
+int main()
+{
+	cout<<"\tImplementation of Multiple Inheritance \n";
+	cout<<"\tBy : Yash Lade\n";
+	cs3 o;
+	o.fun1();
+	o.fun2();
+	o.fun3();
+	return 0;
+}
