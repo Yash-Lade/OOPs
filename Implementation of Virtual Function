@@ -26,7 +26,6 @@ int main()
 {
 	cout<<"\n Implementation of virtual function !!";
 	cout<<"\n by : Yash Lade \n";
-	cout<<"\n Enrollment : 0832CS221229\n";
 	b obj;
 	obj.fun();
 }
