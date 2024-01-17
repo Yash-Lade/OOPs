@@ -44,7 +44,7 @@ int main()
 {
 	
 	cout<<"\n -- Abstract Class Implementation by Yash Lade -- \n";
-	cout<<"\t Enrollment no.- 0832CS221229 \n ";
+
 	rectangle r;
 	triangle t;
 	
