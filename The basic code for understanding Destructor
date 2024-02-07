@@ -24,7 +24,7 @@ class Rectangle
 		breadth=r2.breadth;
 	}
 	
-	~Rectangle()
+	~Rectangle()	//This is a desturtor and whenever the program ends then the destructor is being called.
 	{
 		cout<<"Destructor is called !!! \n";
 	}
